@@ -31,7 +31,7 @@ Before starting the following tasks, make sure that the **Chrome Developer Tools
 
 3. Now that you have your basic App component rendered in the browser through `index.js`, create a property of your choosing on App in `index.js`. The value for that property should be a string. Pass in your *props* to App and replace your original `<h1>` text with the property value you just passed in to the component. Your browser should now display the property value you passed into the component.
 
-4. Time to convert your functional component into a class-based component. Without changing any actual content, comment out your functional App component and create a new class-based App component that renders the same *props* as the functional one did.
+4. Time to convert your functional component into a cass-balsed component. Without changing any actual content, comment out your functional App component and create a new class-based App component that renders the same *props* as the functional one did.
 
 5. Now that your App is a class-based component, you can initialize *state*. Do that, and define a new property called "text" with some string as the value. 
 
